@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	version="3.1">
+
+	<!-- This is a server's lifecycle event listener, and the job of this is 
+		to locate a file called sun-jaxws.xml which defines all endpoints, and load 
+		instances of all the ws-endpoints -->
+	<listener>
+		<listener-class>
+			com.sun.xml.ws.transport.http.servlet.WSServletContextListener</listener-class>
+	</listener>
+
+
+	<!-- this servlet is the SOAP engine, that receives all the SOAP requests
+	having a URL pattern of /ws/*, and invokes the endpoint-operations
+	based on the URL -->
+	<servlet>
+		<servlet-name>s1</servlet-name>
+		<servlet-class>com.sun.xml.ws.transport.http.servlet.WSServlet</servlet-class>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>s1</servlet-name>
+		<url-pattern>/ws/*</url-pattern>
+	</servlet-mapping>
+
+</web-app>
