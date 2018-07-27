@@ -15,7 +15,7 @@ Client?
 
 For more visit:
 * https://vinod.co/
-* http://www.ntu.edu.sg/home/ehchua/programming/java/j4a_gui.html
+* http://www.ntu.edu.sg/home/ehchua/programming/index.html#Java
 
 Write to me at vinod@vinod.co
 
