@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!-- A list of 50 contacts -->
+
+<contacts>
+	<contact>
+		<id>1</id>
+		<name>Viviana Hunnawill</name>
+		<email>vhunnawill0@lulu.com</email>
+		<phone>6724273436</phone>
+	</contact>
+	<contact>
+		<id>2</id>
+		<name>Gipsy Noriega</name>
+		<email>gnoriega1@freewebs.com</email>
+		<phone>7238089094</phone>
+	</contact>
+	<contact>
+		<id>3</id>
+		<name>Paddie Blinco</name>
+		<email>pblinco2@xing.com</email>
+		<phone>5259542139</phone>
+	</contact>
+	<contact>
+		<id>4</id>
+		<name>Shanon Sneden</name>
+		<email>ssneden3@dion.ne.jp</email>
+		<phone>6555841107</phone>
+	</contact>
+	<contact>
+		<id>5</id>
+		<name>Christine Andriss</name>
+		<email>candriss4@cnbc.com</email>
+		<phone>3478907071</phone>
+	</contact>
+	<contact>
+		<id>6</id>
+		<name>De witt Dalgliesh</name>
+		<email>dwitt5@boston.com</email>
+		<phone>4569983967</phone>
+	</contact>
+	<contact>
+		<id>7</id>
+		<name>Sondra Aleavy</name>
+		<email>saleavy6@wikia.com</email>
+		<phone>7272404927</phone>
+	</contact>
+	<contact>
+		<id>8</id>
+		<name>Randall Danis</name>
+		<email>rdanis7@technorati.com</email>
+		<phone>8607586109</phone>
+	</contact>
+	<contact>
+		<id>9</id>
+		<name>Hilary Card</name>
+		<email>hcard8@comsenz.com</email>
+		<phone>7062106536</phone>
+	</contact>
+	<contact>
+		<id>10</id>
+		<name>Toma MacGaughy</name>
+		<email>tmacgaughy9@cbsnews.com</email>
+		<phone>4514530649</phone>
+	</contact>
+	<contact>
+		<id>11</id>
+		<name>Geri Wahlberg</name>
+		<email>gwahlberga@boston.com</email>
+		<phone>3467169398</phone>
+	</contact>
+	<contact>
+		<id>12</id>
+		<name>Leland Sprouls</name>
+		<email>lsproulsb@istockphoto.com</email>
+		<phone>5211343160</phone>
+	</contact>
+	<contact>
+		<id>13</id>
+		<name>Bambie Bewsy</name>
+		<email>bbewsyc@goodreads.com</email>
+		<phone>3244804077</phone>
+	</contact>
+	<contact>
+		<id>14</id>
+		<name>Mike Kleanthous</name>
+		<email>mkleanthousd@booking.com</email>
+		<phone>5226539622</phone>
+	</contact>
+	<contact>
+		<id>15</id>
+		<name>Juan Staddom</name>
+		<email>jstaddome@facebook.com</email>
+		<phone>1443770804</phone>
+	</contact>
+	<contact>
+		<id>16</id>
+		<name>Kristen Corbould</name>
+		<email>kcorbouldf@un.org</email>
+		<phone>1416815485</phone>
+	</contact>
+	<contact>
+		<id>17</id>
+		<name>Nelly Royden</name>
+		<email>nroydeng@usa.gov</email>
+		<phone>7443373381</phone>
+	</contact>
+	<contact>
+		<id>18</id>
+		<name>Jen Hacaud</name>
+		<email>jhacaudh@businessweek.com</email>
+		<phone>4536132714</phone>
+	</contact>
+	<contact>
+		<id>19</id>
+		<name>Elinor Lightbody</name>
+		<email>elightbodyi@posterous.com</email>
+		<phone>6024301341</phone>
+	</contact>
+	<contact>
+		<id>20</id>
+		<name>Baxie Anthoney</name>
+		<email>banthoneyj@fda.gov</email>
+		<phone>6374588684</phone>
+	</contact>
+	<contact>
+		<id>21</id>
+		<name>Marsha O'Lenechan</name>
+		<email>molenechank@t-online.de</email>
+		<phone>6866489727</phone>
+	</contact>
+	<contact>
+		<id>22</id>
+		<name>Cherye Ocheltree</name>
+		<email>cocheltreel@abc.net.au</email>
+		<phone>9525644115</phone>
+	</contact>
+	<contact>
+		<id>23</id>
+		<name>Edouard holmes</name>
+		<email>eholmesm@jiathis.com</email>
+		<phone>7429144786</phone>
+	</contact>
+	<contact>
+		<id>24</id>
+		<name>Bron Durdle</name>
+		<email>bdurdlen@istockphoto.com</email>
+		<phone>2792371782</phone>
+	</contact>
+	<contact>
+		<id>25</id>
+		<name>Courtney Weild</name>
+		<email>cweildo@stanford.edu</email>
+		<phone>2659081213</phone>
+	</contact>
+	<contact>
+		<id>26</id>
+		<name>Alan Lydster</name>
+		<email>alydsterp@godaddy.com</email>
+		<phone>5526453316</phone>
+	</contact>
+	<contact>
+		<id>27</id>
+		<name>Preston Stede</name>
+		<email>pstedeq@instagram.com</email>
+		<phone>6931877917</phone>
+	</contact>
+	<contact>
+		<id>28</id>
+		<name>Iosep Swyer-Sexey</name>
+		<email>iswyersexeyr@merriam-webster.com</email>
+		<phone>6174861998</phone>
+	</contact>
+	<contact>
+		<id>29</id>
+		<name>Analiese Brymner</name>
+		<email>abrymners@domainmarket.com</email>
+		<phone>4221824155</phone>
+	</contact>
+	<contact>
+		<id>30</id>
+		<name>Natasha Muro</name>
+		<email>nmurot@apple.com</email>
+		<phone>3371434035</phone>
+	</contact>
+	<contact>
+		<id>31</id>
+		<name>Valene Giametti</name>
+		<email>vgiamettiu@engadget.com</email>
+		<phone>9877062307</phone>
+	</contact>
+	<contact>
+		<id>32</id>
+		<name>Casi McMechan</name>
+		<email>cmcmechanv@typepad.com</email>
+		<phone>5782352208</phone>
+	</contact>
+	<contact>
+		<id>33</id>
+		<name>Alvis Sivyer</name>
+		<email>asivyerw@godaddy.com</email>
+		<phone>4771825754</phone>
+	</contact>
+	<contact>
+		<id>34</id>
+		<name>Norma Moralas</name>
+		<email>nmoralasx@slideshare.net</email>
+		<phone>8478542603</phone>
+	</contact>
+	<contact>
+		<id>35</id>
+		<name>Dorey Sitford</name>
+		<email>dsitfordy@wikipedia.org</email>
+		<phone>5236782176</phone>
+	</contact>
+	<contact>
+		<id>36</id>
+		<name>Caron Cardnell</name>
+		<email>ccardnellz@princeton.edu</email>
+		<phone>5104533922</phone>
+	</contact>
+	<contact>
+		<id>37</id>
+		<name>Sarena Tettley</name>
+		<email>stettley10@businesswire.com</email>
+		<phone>6027960777</phone>
+	</contact>
+	<contact>
+		<id>38</id>
+		<name>Arlen Pipping</name>
+		<email>apipping11@biglobe.ne.jp</email>
+		<phone>2144588223</phone>
+	</contact>
+	<contact>
+		<id>39</id>
+		<name>Ezmeralda Eslinger</name>
+		<email>eeslinger12@tinypic.com</email>
+		<phone>7758878090</phone>
+	</contact>
+	<contact>
+		<id>40</id>
+		<name>Sella Minchin</name>
+		<email>sminchin13@intel.com</email>
+		<phone>7862987816</phone>
+	</contact>
+	<contact>
+		<id>41</id>
+		<name>Wini Vinnicombe</name>
+		<email>wvinnicombe14@craigslist.org</email>
+		<phone>2139289815</phone>
+	</contact>
+	<contact>
+		<id>42</id>
+		<name>Edith Starten</name>
+		<email>estarten15@php.net</email>
+		<phone>9301162927</phone>
+	</contact>
+	<contact>
+		<id>43</id>
+		<name>Kristan Withnall</name>
+		<email>kwithnall16@prweb.com</email>
+		<phone>8192146753</phone>
+	</contact>
+	<contact>
+		<id>44</id>
+		<name>Gabby Sives</name>
+		<email>gsives17@etsy.com</email>
+		<phone>3354913805</phone>
+	</contact>
+	<contact>
+		<id>45</id>
+		<name>Silvain Joliffe</name>
+		<email>sjoliffe18@hp.com</email>
+		<phone>5683119013</phone>
+	</contact>
+	<contact>
+		<id>46</id>
+		<name>Selina Merriman</name>
+		<email>smerriman19@artisteer.com</email>
+		<phone>9221346904</phone>
+	</contact>
+	<contact>
+		<id>47</id>
+		<name>Cherry Tilsley</name>
+		<email>ctilsley1a@wp.com</email>
+		<phone>4603105404</phone>
+	</contact>
+	<contact>
+		<id>48</id>
+		<name>Micaela Howling</name>
+		<email>mhowling1b@yahoo.com</email>
+		<phone>9519265966</phone>
+	</contact>
+	<contact>
+		<id>49</id>
+		<name>Amata Muzzi</name>
+		<email>amuzzi1c@clickbank.net</email>
+		<phone>5015347909</phone>
+	</contact>
+	<contact>
+		<id>50</id>
+		<name>Haze Terbeek</name>
+		<email>hterbeek1d@fda.gov</email>
+		<phone>5181017437</phone>
+	</contact>
+</contacts>
