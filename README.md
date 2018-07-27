@@ -13,7 +13,9 @@ Client?
 * Philips Innovation Campus, Bangalore
 
 
-For more visit https://vinod.co/
+For more visit:
+* https://vinod.co/
+* http://www.ntu.edu.sg/home/ehchua/programming/java/j4a_gui.html
 
 Write to me at vinod@vinod.co
 
